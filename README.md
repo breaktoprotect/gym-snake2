@@ -8,8 +8,8 @@ This is the version v1. Snake v0 returns a set of observables while this version
 ## How does the game works?
 Standard Snake game. If you owned a Nokia phone ever, you would have played this game. 
 
-## Source
-TODO
+## Demo: Randomized agent to show environment and 'matrices' returned 
+![Simple demo of v2](https://github.com/breaktoprotect/gym-snake2/blob/master/demo/gym_snake2_demo.gif)
 
 ## Observations
 Entire environment in matrices.
